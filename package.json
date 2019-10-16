@@ -1,7 +1,7 @@
 {
   "name": "kbravh",
   "version": "1.0.0",
-  "description": "A personal card Karey Higuera (kbravh)",
+  "description": "A personal card for Karey Higuera (kbravh)",
   "main": "/bin/card.js",
   "bin": {
     "kbravh": "./bin/card.js"
@@ -39,8 +39,5 @@
   "bugs": {
     "url": "https://github.com/kbravh/kbravh/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
