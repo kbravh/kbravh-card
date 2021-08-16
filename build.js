@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('             Karey Higuera'),
   handle: chalk.white('kbravh'),
-  work: chalk.white('Associate Consultant at Fenway Group'),
+  work: chalk.white('Software Engineer at Luma'),
   twitter: chalk.green('https://twitter.com/') + chalk.cyan('kbravh'),
   npm: chalk.green('https://npmjs.com/') + chalk.grey('~kbravh'),
   github: chalk.green('https://github.com/') + chalk.yellow('kbravh'),
